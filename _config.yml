@@ -1,8 +1,7 @@
 # Site settings
-title: Klise Theme # site title
+title: Junhee Pyo  # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  I'm a multidisciplinary developer and designer, with a strong interest in user experience, code, typography and accessibility.
 lang: en-ko # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,14 +12,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Junhee Pyo # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/junhee-p" target="_blank" rel="noopener">@github</a>.
+    웹 디자이너 표준희 입니다.<a href="https://github.com/junhee-p" target="_blank" rel="noopener">@github</a>.
   username: Jay # general username
   github: Junhee-p # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: junheee.p@gmail.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /assets/img/img_profile_jay.png # change with your own avatar
 
 # URL settings
 url: "https://junhee-p.github.io" #
