@@ -1,10 +1,10 @@
 # Site settings
 title: Junhee Pyo  # site title
 description: >- # site description
-  I'm a multidisciplinary developer and designer, with a strong interest in user experience, code, typography and accessibility.
+  I'm a multidisciplinary designer and developer, with a strong interest in user experience, code, typography and accessibility.
 lang: en-ko # default lang
 timezone: Asia/Seoul # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/img_profile-sns_profile.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Junhee-p/junhee-p.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Junhee Pyo # author name
   bio: >- # tell to the world
-    웹 디자이너 표준희 입니다.<a href="https://github.com/junhee-p" target="_blank" rel="noopener">@github</a>.
+    I ❤️ Design System, UX, Code, Life!
   username: Jay # general username
   github: Junhee-p # github username
   twitter: twitter_username # twitter username
@@ -37,6 +37,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
+future: true
 
 # Default front matter
 defaults:

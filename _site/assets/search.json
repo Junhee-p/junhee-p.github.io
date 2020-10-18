@@ -1,45 +1,10 @@
 [
   
     {
-      "title"    : "Welcome to Jekyll!",
-      "tags"     : "",
-      "url"      : "//welcome-to-jekyll/",
-      "date"     : "2020-08-29 11:29:20 +0900"
-    } ,
-  
-    {
-      "title"    : "Cara ribet memperbarui forked repo",
-      "tags"     : "tips, git, software",
-      "url"      : "//cara-memperbarui-fork-repository/",
-      "date"     : "2020-01-29 03:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "What is a shell? 🐚 adalah kerang ajaib?",
-      "tags"     : "unix/linux, cli",
-      "url"      : "//apa-itu-shell/",
-      "date"     : "2020-01-25 13:58:47 +0900"
-    } ,
-  
-    {
-      "title"    : "How this site was born 👶",
-      "tags"     : "blog, netlify, jekyll, github",
-      "url"      : "//how-this-site-was-made/",
-      "date"     : "2018-09-28 11:45:47 +0900"
-    } ,
-  
-    {
-      "title"    : "Python Notes from Intro to Machine Learning",
-      "tags"     : "python, machine-learning",
-      "url"      : "//python-notes-from-Intro-to-machine-learning/",
-      "date"     : "2018-04-14 12:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "React Component with Dot Notation",
-      "tags"     : "javascript, react",
-      "url"      : "//react-component-with-dot-notation/",
-      "date"     : "2018-04-08 01:04:00 +0900"
+      "title"    : "블로그를 시작하며",
+      "tags"     : "blog, writing",
+      "url"      : "//%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7/",
+      "date"     : "2020-10-18 21:24:20 +0900"
     } 
   
 ]
