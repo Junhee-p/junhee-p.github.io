@@ -70,6 +70,7 @@
 // Post content
 .page-content {
   padding-top: 8px;
+  font-family: 'Noto Sans KR', sans-serif;;
 
   iframe {
     text-align: center;
@@ -90,6 +91,7 @@
   a {
     color: $text-link-blue;
     text-decoration: none;
+
     &[target="_blank"]::after {
       content: " \2197";
       font-size: $small-font-size;
@@ -112,6 +114,7 @@
     margin: 0;
     padding-top: $spacing-full - 15;
     padding-bottom: $spacing-full - 15;
+    font-size: $large-font-size;
   }
 
   ul.task-list {
