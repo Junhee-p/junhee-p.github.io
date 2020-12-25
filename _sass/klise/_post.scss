@@ -191,6 +191,10 @@
   h6 {
     @include relative-font-size(0.875);
   }
+
+  .img-hero {
+    border-radius: 12px;
+  }
 }
 
 .post-nav {

@@ -21,8 +21,8 @@ author:
   avatar: /assets/img/img_profile_jay.png # change with your own avatar
 
 # URL settings
-url: "https://junhee-p.github.io" #
-baseurl: /
+url: https://junhee-p.github.io
+baseurl:
 permalink: /:title/
 google_analytics: G-3FTXZ15FD8
 fb_appid:
