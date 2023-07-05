@@ -2859,6 +2859,11 @@ footer h2 {
   z-index: -10;
 }
 
+.logo-company {
+  width: 80px;
+  height: 80px;
+}
+
 .card-hover {
   transition: 0.4s ease !important;
 }
@@ -3505,6 +3510,10 @@ a.card-info:hover {
   .price-icon {
     width: 1.75rem;
   }
+  .logo-company {
+    width: 56px;
+    height: 56px;
+  }
   .tech-masonry li img {
     width: 3.25rem;
     height: 3.25rem;
@@ -3618,6 +3627,15 @@ a.card-info:hover {
   }
   .hero-mobile {
     right: -4vw !important;
+  }
+  .nav-portfolio {
+    overflow-x: auto;
+    overflow-y: hidden;
+    flex-wrap: nowrap;
+    justify-content: start;
+  }
+  .nav-portfolio .nav-link {
+    white-space: nowrap;
   }
   .grid-about-me .grid-item,
   .grid-about-me .grid-item-medium,
