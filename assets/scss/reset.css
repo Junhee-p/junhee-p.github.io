@@ -2975,7 +2975,7 @@ footer h2 {
   height: 0.0625rem;
   transition: width 0.3s;
 }
-.link-underline:hover::before, .link-underline:focus::before, .link-underline:active::before {
+.link-underline:hover::before, .link-underline:focus::before, .link-underline:active::before, .link-underline:visited::before {
   width: 100%;
   left: 0;
   background-color: white;
@@ -2988,6 +2988,15 @@ footer h2 {
   color: #81B4FE !important;
 }
 .link-blue:hover::before, .link-blue:focus::before, .link-blue:active::before {
+  background-color: #81B4FE;
+}
+.link-blue:visited {
+  color: #3485FD;
+}
+.link-blue:visited:hover, .link-blue:visited:focus, .link-blue:visited:active {
+  color: #81B4FE !important;
+}
+.link-blue:visited:hover::before, .link-blue:visited:focus::before, .link-blue:visited:active::before {
   background-color: #81B4FE;
 }
 

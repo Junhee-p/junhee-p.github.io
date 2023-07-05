@@ -1867,7 +1867,8 @@ footer {
     height: 0.0625rem;
     transition: width .3s;
   }
-  &:hover, &:focus, &:active {
+
+  &:hover, &:focus, &:active, &:visited {
     &::before {
       width: 100%;
       left: 0;
@@ -1884,6 +1885,18 @@ footer {
 
     &::before {
       background-color: $blue-200;
+    }
+  }
+
+  &:visited {
+    color: $blue-400;
+    
+    &:hover, &:focus, &:active {
+      color: $blue-200 !important;
+  
+      &::before {
+        background-color: $blue-200;
+      }
     }
   }
 }
