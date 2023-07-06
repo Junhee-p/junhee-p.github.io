@@ -3393,6 +3393,9 @@ a.card-info:hover {
   h2.fs-5 {
     font-size: 0.75rem !important;
   }
+  h4, .h4 {
+    font-size: calc(1rem + 1.8vw) !important;
+  }
   h5, .h5 {
     font-size: calc(1rem + 1.6vw) !important;
   }
@@ -3437,22 +3440,6 @@ a.card-info:hover {
   }
   ul .ti.fs-2, ul .ti.fs-1 {
     font-size: 1.25rem !important;
-  }
-  .btn {
-    font-size: 0.875rem;
-    padding: 0.469rem 1.25rem;
-  }
-  .btn-group > .btn {
-    font-size: 0.875rem;
-    padding: 0.469rem 1.25rem;
-  }
-  .btn-lg {
-    font-size: 1rem;
-    padding: 0.563rem 1.5rem;
-  }
-  .btn-group-lg > .btn {
-    font-size: 1rem;
-    padding: 0.563rem 1.5rem;
   }
   .link-lg, .link-xl {
     font-size: 1rem;
@@ -3522,31 +3509,6 @@ a.card-info:hover {
     margin-top: 2.125rem;
     margin-bottom: 0.693rem;
   }
-  .hero-mobile {
-    position: relative !important;
-    max-width: 100%;
-    right: -17vw !important;
-    padding-top: 2rem;
-  }
-  .entry-content h6, .entry-content h5 {
-    padding-top: 1rem;
-    margin-bottom: 1rem;
-  }
-  .entry-content h5 {
-    font-size: 1rem !important;
-  }
-  .entry-content p, .entry-content ul, .entry-content ol {
-    margin-bottom: 1rem;
-  }
-  .entry-content > img {
-    margin: 1rem 0;
-  }
-  .entry-content > figure {
-    margin: 2rem 0 1rem;
-  }
-  .blockquote-footer {
-    font-size: 1rem !important;
-  }
   .swiper-distory {
     box-shadow: 0px 12px 16px rgba(0, 0, 0, 0.0364401);
     border-radius: 0.75rem;
@@ -3562,17 +3524,6 @@ a.card-info:hover {
   }
   .bg-accent-5 .swiper-distory {
     background: #18181E;
-  }
-  footer h2.fs-4 {
-    font-size: 1rem !important;
-  }
-  footer .nav-item {
-    padding: 0.75rem 0 0;
-    font-size: 0.875rem !important;
-  }
-  footer .nav .border-bottom {
-    border-width: 0.0625rem !important;
-    padding: 1rem 0 0.3125rem;
   }
   .grid-portfolio-v2,
   .grid-portfolio-v3 {

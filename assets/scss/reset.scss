@@ -2435,6 +2435,9 @@ a.card-info {
       font-size: 0.75rem !important;
     }
   }
+  h4, .h4 {
+    font-size: calc(1rem + 1.8vw) !important;
+  }
   h5, .h5 {
     font-size: calc(1rem + 1.6vw) !important;
     &.fs-1 {
@@ -2488,28 +2491,6 @@ a.card-info {
       &.fs-2, &.fs-1 {
         font-size: 1.25rem !important;
       }
-    }
-  }
-
-  // Button SCSS
-  .btn {
-    font-size: 0.875rem;
-    padding: 0.469rem 1.25rem;
-  }
-  .btn-group {
-    > .btn {
-      font-size: 0.875rem;
-      padding: 0.469rem 1.25rem;
-    }
-  }
-  .btn-lg {
-    font-size: 1rem;
-    padding: 0.563rem 1.5rem;
-  }
-  .btn-group-lg {
-    > .btn {
-      font-size: 1rem;
-      padding: 0.563rem 1.5rem;
     }
   }
 
@@ -2604,37 +2585,6 @@ a.card-info {
     }
   }
 
-  // Hero Mobile SCSS
-  .hero-mobile {
-    position: relative !important;
-    max-width: 100%;
-    right: -17vw !important;
-    padding-top: 2rem;
-  }
-
-  // Entry Content SCSS
-  .entry-content {
-    h6, h5 {
-      padding-top: 1rem;
-      margin-bottom: 1rem;
-    }
-    h5 {
-      font-size: 1rem !important;
-    }
-    p, ul, ol {
-      margin-bottom: 1rem;
-    }
-    > img {
-      margin: 1rem 0;
-    }
-    > figure {
-      margin: 2rem 0 1rem;
-    }
-  }
-  .blockquote-footer {
-    font-size: 1rem !important;
-  }
-
   // Shadow Box SCSS
   .swiper-distory {
     box-shadow: $shadow3;
@@ -2654,25 +2604,6 @@ a.card-info {
   .bg-accent-5 {
     .swiper-distory {
       background: $base-clr-00;
-    }
-  }
-
-  // Footer SCSS
-  footer {
-    h2 {
-      &.fs-4 {
-        font-size: 1rem !important;
-      }
-    }
-    .nav-item {
-      padding: 0.75rem 0 0;
-      font-size: 0.875rem !important;
-    }
-    .nav {
-      .border-bottom {
-        border-width: 0.0625rem !important;
-        padding: 1rem 0 0.3125rem;
-      }
     }
   }
 
