@@ -3362,7 +3362,7 @@ a.card-info:hover {
     height: auto;
   }
   .gradient {
-    --size: 500px;
+    --size: 360px;
   }
 }
 @media screen and (max-width: 767px) {
