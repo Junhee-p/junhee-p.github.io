@@ -3634,6 +3634,9 @@ a.card-info:hover {
   .card-portfolio-bottom {
     height: 22rem;
   }
+  .carousel-item .card {
+    height: 21rem;
+  }
 }
 @media screen and (max-width: 460px) {
   .grid-portfolio-v2,

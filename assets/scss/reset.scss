@@ -2687,7 +2687,6 @@ a.card-info {
     }
   }
   
-
   // Hero Mobile SCSS
   .hero-mobile {
     right: -4vw !important;
@@ -2747,6 +2746,12 @@ a.card-info {
 
   .card-portfolio-bottom {
     height: 22rem;
+  }
+
+  .carousel-item {
+    .card {
+      height: 21rem;
+    }
   }
 }
 @media screen and (max-width: 460px) {
