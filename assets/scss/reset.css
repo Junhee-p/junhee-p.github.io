@@ -2919,8 +2919,8 @@ footer h2 {
   justify-content: center;
 }
 .grid-about-me .img-tall {
-  width: 80%;
-  height: auto;
+  width: auto;
+  height: 100%;
   box-shadow: 0 16px 30px 0 rgba(0, 0, 0, 0.3);
 }
 .grid-about-me .img-wide {
@@ -3603,7 +3603,6 @@ a.card-info:hover {
   }
   .grid-about-me .img-tall {
     margin-top: 1.5rem;
-    width: 40%;
   }
   .masonry-wrapper {
     -moz-column-count: 1;
