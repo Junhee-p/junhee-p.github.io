@@ -225,6 +225,10 @@ section {
   background-color: #18181E;
 }
 
+.bg-base-color-10 {
+  background-color: #212121;
+}
+
 .bg-accent-1 {
   background-color: #3485FD;
 }
@@ -3365,6 +3369,9 @@ a.card-info:hover {
   .logo {
     max-width: 1.5rem;
   }
+  .bg-base-color-00 {
+    background-color: #1D1D2C;
+  }
   section {
     padding: 3rem 0;
   }
@@ -3498,8 +3505,8 @@ a.card-info:hover {
     width: 1.75rem;
   }
   .logo-company {
-    width: 56px;
-    height: 56px;
+    width: 48px;
+    height: 48px;
   }
   .tech-masonry li img {
     width: 3.25rem;

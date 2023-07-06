@@ -139,6 +139,7 @@ section {
 
 // Text Color Brand SCSS
 .bg-base-color-00 {background-color: $base-clr-00;}
+.bg-base-color-10 {background-color: $black-800;}
 .bg-accent-1 {background-color: $accent-clr1;}
 .bg-accent-2 {background-color: $accent-clr2;}
 .bg-accent-3 {background-color: $accent-clr3;}
@@ -2392,6 +2393,9 @@ a.card-info {
   .logo {
     max-width: 1.5rem;
   }
+  .bg-base-color-00 {
+    background-color: $base-clr-00--hover;
+  }
   section {
     padding: 3rem 0;
   }
@@ -2567,8 +2571,8 @@ a.card-info {
   }
 
   .logo-company {
-    width: 56px;
-    height: 56px;
+    width: 48px;
+    height: 48px;
   }
 
   // Tech Masonry SCSS
